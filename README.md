@@ -1,5 +1,3 @@
-# Django React Boilerplate
-
 ## Backend development workflow
 
 ```json
